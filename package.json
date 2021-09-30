@@ -2,9 +2,10 @@
   "name": "Process-Rapido-test03",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "scrapping.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
